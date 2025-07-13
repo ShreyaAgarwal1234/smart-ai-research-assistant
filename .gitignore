@@ -1,0 +1,10 @@
+venv/
+_pycache_/
+*.pyc
+*.pkl
+*.db
+*.sqlite3
+*.log
+*.zip
+*.ipynb_checkpoints/
+.env

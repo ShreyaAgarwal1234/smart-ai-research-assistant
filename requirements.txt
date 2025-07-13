@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+python-multipart
+
+pdfplumber          # PDF parser that works on Python 3.13
+
+transformers
+sentence-transformers
+torch
+numpy
+faiss-cpu
+
+sqlalchemy          # optional, for chat memory
